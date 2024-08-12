@@ -12,7 +12,7 @@
         "pretty": "prettier --write ."
     },
     "dependencies": {
-        "@fluentui-contrib/react-data-grid-react-window": "^1.1.2",
+        "@fluentui-contrib/react-data-grid-react-window": "^1.2.0",
         "@fluentui/react-components": "^9.54.1",
         "@fluentui/react-file-type-icons": "^8.11.20",
         "@fluentui/react-icons": "^2.0.244",
