@@ -22,7 +22,7 @@
     "@types/node": "^20.12.5",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "codetierlist-types": "file:../types",
-    "eslint": "^8.52.0",
+    "eslint": "^9.14.0",
     "nodemon": "^3.1.4",
     "prisma": "^5.12.1",
     "ts-node": "^10.9.2",
